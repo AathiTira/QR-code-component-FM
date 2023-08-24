@@ -1,0 +1,52 @@
+/* .attribution { 
+  font-size: 11px; 
+  text-align: center; 
+}
+
+.attribution a { 
+  color: hsl(228, 45%, 44%); 
+} */
+
+main {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 95vh;
+}
+
+.main {
+  text-align: center;
+  width: 170px;
+  border-style: solid;
+  padding: 16px;
+  border-width: 1px;
+  border-color: hsl(212, 45%, 89%);
+  border-radius: 16px;
+}
+
+img {
+  border-radius: 10px;
+  width: 100%;
+}
+
+p {
+  width: 100%;
+  font-family: 'Outfit', sans-serif;
+}
+
+.p-1 {
+  font-weight: 700;
+  font-size: 15px;
+  color: hsl(220, 15%, 55%);
+}
+
+.p-2 {
+  font-weight: 400;
+  font-size: 10px;
+  color: hsl(218, 44%, 22%);
+}
+
+footer {
+  text-align: center;
+}
