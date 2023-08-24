@@ -20,7 +20,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [qr-code-Github-solution](https://github.com/AathiTira/QR-code-component-FM)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [qr-code-live-set](https://qr-code-component-fm-orpin.vercel.app/)
 
 ## My process
 
