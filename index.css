@@ -23,6 +23,7 @@ main {
   border-width: 1px;
   border-color: hsl(212, 45%, 89%);
   border-radius: 16px;
+  box-shadow: 0 0 20px hsl(212, 45%, 89%);
 }
 
 img {
